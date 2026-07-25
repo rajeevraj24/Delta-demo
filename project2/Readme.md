@@ -1,3 +1,2 @@
-# New Project
-This project was created from local system
-created by rajeev raj
+# New project
+This project was created from local system created by rajeev raj
